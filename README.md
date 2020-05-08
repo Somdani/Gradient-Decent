@@ -1,2 +1,2 @@
 # Gradient-Decent
-Performed Gradient Descent using weights and heights for all genders 
+Performed Gradient Descent using weights and heights datasets for all genders 
